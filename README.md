@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/github-banner.png"
+       width="100%"
+       alt="Chamath Dissanayake - Software Engineer">
+</p>
+
 # Hi, I'm Chamath Dissanayake 👋
 
 ### Software Engineering Undergraduate | Full-Stack Developer
