@@ -4,17 +4,39 @@
        alt="Chamath Dissanayake - Software Engineer">
 </p>
 
-# Hi, I'm Chamath Dissanayake 👋
+<h2 align="center">👋 Hello, I'm Chamath Dissanayake</h2>
 
-### Software Engineering Undergraduate | Full-Stack Developer
+<h3 align="center">
+  Software Engineering Undergraduate | Full-Stack Developer
+</h3>
 
-I enjoy turning ideas into practical software solutions. I'm passionate about building web applications, mobile applications, and backend systems while continuously improving my software engineering skills.
+<p align="center">
+  Passionate about building modern web applications,
+  mobile solutions, and scalable software systems.
+</p>
 
-- 🎓 Software Engineering undergraduate at SLIIT
-- 💻 Interested in Full-Stack and Software Engineering
-- 🌱 Continuously learning and building real-world projects
-- 🤝 Receptive to new software engineering opportunities, freelance projects, and collaborations
+<p align="center">
+  <a href="https://github.com/Chamath0516">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/chamath-dissanayake/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
+---
+
+## 🚀 About Me
+
+- 🎓 Software Engineering undergraduate at SLIIT.
+- 💻 Interested in Full-Stack Software Development.
+- 🌐 Building responsive web applications.
+- 📱 Exploring cross-platform mobile development.
+- ⚙️ Interested in backend engineering and database design.
+- 🤝 Exploring new opportunities in Software Engineering , freelance projects,
+  and collaborative development.
+
+---
 ---
 
 ## 🛠️ Technology Stack
